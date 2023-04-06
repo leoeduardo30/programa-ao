@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+    <title>Document</title>
+</head>
+
+<body>
+    <header class="cabeçalho">
+        <ul class="cabeçalho-lista">
+            <li class="cabeçalho-lista-item"><a href="#escola">link 1</a></li>
+            <li class="cabeçalho-lista-item"><a href="#estudante"><link 2></a></li>
+        </ul>
+    </header>
+    <section id="escola">
+        <h2 class="escola-titulo">Titulo do conteudo</h2>
+        <p class="escola-texto-um">Texto sobre.</p>
+        <p class="escola-texto-dois">Texto dois</p>
+    </section>
+    
+</body>
+</html>
